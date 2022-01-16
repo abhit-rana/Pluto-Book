@@ -1,1 +1,1 @@
-This Pdf consist of the Abstract, Introduction, Methodology, Requirements Gathering, Ideation, Low-fi and Hi-fi Prototyping, Evaluation, Analysis, limitations, Fututre Work and Conclusion.
+This Pdf consist of the Abstract, Introduction, Methodology, Requirements Gathering, Ideation, Low-fi and Hi-fi Prototyping, Evaluation, Analysis, limitations, Fututre Work and Conclusion for the project of removing the problems faced in online education.
